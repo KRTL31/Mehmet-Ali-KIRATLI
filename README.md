@@ -5,7 +5,7 @@ README
 <a href="http://www.eskisehiremlak.com"><img src="http://in.sitekodlari.com/prla/gidk.gif" border="0" alt="Eskişehir Emlak"></a><a href="http://www.eskisehiremlak.com"><img src="http://in.sitekodlari.com/prla/gidi.gif" border="0" alt="Eskişehir Emlak"></a><a href="http://www.eskisehiremlak.com"><img src="http://in.sitekodlari.com/prla/gidr.gif" border="0" alt="Eskişehir Emlak"></a><a href="http://www.eskisehiremlak.com"><img src="http://in.sitekodlari.com/prla/gida.gif" border="0" alt="Eskişehir Emlak"></a><a href="http://www.eskisehiremlak.com"><img src="http://in.sitekodlari.com/prla/gidt.gif" border="0" alt="Eskişehir Emlak"></a><a href="http://www.eskisehiremlak.com"><img src="http://in.sitekodlari.com/prla/gidl.gif" border="0" alt="Eskişehir Emlak"></a><a href="http://www.eskisehiremlak.com"><img src="http://in.sitekodlari.com/prla/gidi.gif" border="0" alt="Eskişehir Emlak"></a>
 
 
-<span style='color:red'> YAZI </span>
+<span style='color:red'> KIRATLI </span>
 
 <span style='color:pink'> MEHMET </span>
 
